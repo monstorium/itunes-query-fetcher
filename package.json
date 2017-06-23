@@ -1,0 +1,14 @@
+{
+  "name": "itunes-query-fetcher",
+  "version": "1.2.4",
+  "description": "A wrapper for the ItunesSearch API.",
+  "main": "queryFetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Giridhar",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
