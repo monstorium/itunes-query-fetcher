@@ -90,4 +90,4 @@ The above example is included in the example.js file included in the module, whi
 
 NPM Link: https://www.npmjs.com/package/itunes-query-fetcher
 
-Github Link:
+Github Link: https://github.com/monstorium/itunes-query-fetcher
